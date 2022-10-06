@@ -1,1 +1,3 @@
 Some text
+
+Этот файл был изменен в ветке new-feature
